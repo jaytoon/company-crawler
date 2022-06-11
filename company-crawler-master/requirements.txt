@@ -1,0 +1,8 @@
+certifi
+chardet
+DBUtils
+idna
+PyMySQL
+redis
+requests
+urllib3
